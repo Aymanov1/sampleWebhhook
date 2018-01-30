@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="bot.png" height="300" width="300"/>
+  <img src="robot.png" height="300" width="300"/>
   <br>
   Sample Bot SpringBoot 
   <br>
@@ -23,7 +23,7 @@
 <br><br>
 ## API Reference
 
-**GenBot** is developed under the highlights of <a href="https://dialogflow.com/docs/getting-started/basics">Dialog Flow</a>
+**SampleBot** is developed under the highlights of <a href="https://dialogflow.com/docs/getting-started/basics">Dialog Flow</a>
 
 <br><br>
 ## Credits
