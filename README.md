@@ -9,7 +9,7 @@
 
 
 <hr>
-<p>GenBot is a java sample based on SpringBoot to build a bot based on outgoing webhooks sample.</p>
+<p>SampleBot is a java sample based on SpringBoot to build a bot based on outgoing webhooks sample.</p>
 
 <br><br>
 ## Tools
