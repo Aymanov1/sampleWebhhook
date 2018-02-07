@@ -32,7 +32,7 @@ public class BotController {
 		Map<String, Object> json = new HashMap<String, Object>();
 
 		
-		logger.info("it works");
+		logger.info("this is the json file", json);
 		return json;
 
 	}
